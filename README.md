@@ -72,8 +72,8 @@ A comprehensive web and mobile application developed for cultural and religious 
 
 * Built responsive frontend using React and Vite
 * Developed backend APIs using Node.js and Express.js
-* Created cross-platform mobile application with React Native
-* Integrated MySQL database for efficient data management
+* Created a cross-platform mobile application with React Native
+* Integrated a MySQL database for efficient data management
 
 ### 🗳️ Election Mobile Management App - Sri Lanka Election 2025
 
@@ -113,13 +113,16 @@ A secure election management solution developed for Sri Lanka's 2025 election op
 <p align="left">
   <a href="https://www.linkedin.com/in/romesh-wijewardhana-8821183bb?utm_source=share_via&utm_content=profile&utm_medium](https://www.linkedin.com/in/romesh-wijewardhana-8821183bb">
     <img src="https://img.shields.io/badge/LinkedIn-Romesh_Wijewardhana-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a> <br>
   <a href="https://github.com/Romeshwijewardhana99">
     <img src="https://img.shields.io/badge/GitHub-Romesh-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a> <br>
    <a href="mailto:romeshwijewardhana99@gmail.com">
     <img src="https://img.shields.io/badge/Email-romeshwijewardhana99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a> <br>
+  <a href="https://wa.me/94761990104">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_with_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a> <br>
 </p>
 
 ---
