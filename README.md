@@ -115,7 +115,7 @@ A secure election management solution developed for Sri Lanka's 2025 election op
     <img src="https://img.shields.io/badge/LinkedIn-Romesh_Wijewardhana-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Romeshwijewardhana99">
-    <img src="https://img.shields.io/badge/GitHub-Roma-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Romesh-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
    <a href="mailto:romeshwijewardhana99@gmail.com">
     <img src="https://img.shields.io/badge/Email-romeshwijewardhana99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
